@@ -1,0 +1,25 @@
+# Gitignore file for Sign Language Translator
+#
+# Videos
+*.mp4
+
+# Videos
+*.jpeg
+*.jpg
+
+# Testing
+/testing/*
+
+# Generated Dataset
+/target_folder/*
+/target_folder_1/*
+/VideoSets/*
+/train_videos/*
+/train_videos_test/*
+
+# Python Cache
+/__pycache__/*
+
+# Intermediate Test Files
+fpssplit.py
+__ignore__*
