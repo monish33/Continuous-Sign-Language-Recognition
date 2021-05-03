@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/language-python-blue.svg?style=flat"></a>
-  <a href="#"><img src="https://img.shields.io/github/last-commit/axenhammer/Sign-Language-Translator.svg"></a>
-  <a href="/LICENSE.md"><img src="https://img.shields.io/github/license/axenhammer/Sign-Language-Translator.svg?color=blue"></a>
+ 
 </p>
 
 
