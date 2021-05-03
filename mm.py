@@ -6,8 +6,8 @@
 import os
 from os.path import join, exists
 from tqdm import tqdm
-import tohand as th
-import find_total_frames as ftf
+import hand as h
+import find_frames as ff
 import numpy as np
 import cv2
 import pickle
