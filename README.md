@@ -18,10 +18,10 @@ The outputs below were taken directly from our model.
 <img src="https://github.com/monish33/Continuous-Sign-Language-Recognition/blob/main/docs/gifs/raw_ns.gif" width="360"/><img src="https://github.com/monish33/Continuous-Sign-Language-Recognition/blob/main/docs/gifs/raw_smith.gif" width="360"/>
 
 #### Extraction of skin tones (Removal of unwanted entities)
-<img src="/docs/gifs/skin_ext_everyone.gif" width="360"/><img src="/docs/gifs/skin_kk.gif" width="360"/>
+<img src="https://github.com/monish33/Continuous-Sign-Language-Recognition/blob/main/docs/gifs/skin_ns.gif" width="360"/><img src="https://github.com/monish33/Continuous-Sign-Language-Recognition/blob/main/docs/gifs/skin_smith.gif" width="360"/>
 
 #### Canny Edge Detection to extract only perimeter of change
-<img src="/docs/gifs/edges_everyone.gif" width="360"/><img src="/docs/gifs/edges_kk.gif" width="360"/>
+<img src="https://github.com/monish33/Continuous-Sign-Language-Recognition/blob/main/docs/gifs/edges_ns.gif" width="360"/><img src="https://github.com/monish33/Continuous-Sign-Language-Recognition/blob/main/docs/gifs/edges_smith.gif" width="360"/>
 
 
 ## Getting Started
