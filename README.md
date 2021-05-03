@@ -15,7 +15,7 @@ This is an AI model using the Machine Learning, Image Processing which involved 
 ## Intermediate Outputs
 The outputs below were taken directly from our model.
 #### RAW Feed (1920x1080 @ 60 fps)
-<img src="/docs/gifs/rawf_everyone.gif" width="360"/><img src="/docs/gifs/rawf_kk.gif" width="360"/>
+<img src="https://github.com/monish33/Continuous-Sign-Language-Recognition/blob/main/docs/gifs/raw_ns.gif" width="360"/><img src="https://github.com/monish33/Continuous-Sign-Language-Recognition/blob/main/docs/gifs/raw_smith.gif" width="360"/>
 
 #### Extraction of skin tones (Removal of unwanted entities)
 <img src="/docs/gifs/skin_ext_everyone.gif" width="360"/><img src="/docs/gifs/skin_kk.gif" width="360"/>
