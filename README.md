@@ -26,7 +26,7 @@ The outputs below were taken directly from our model.
 
 ## Getting Started
 ### Prerequisites
-What things you need to run the program:
+Things you need to run the program:
 - Python Compiler (3.7 Recommended)
 - A clone of this repository :P
 - **Easy Way:** Install all the necessary packages form pypi by using the following command:
