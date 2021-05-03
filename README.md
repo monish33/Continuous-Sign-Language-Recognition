@@ -1,5 +1,5 @@
 <h1 align="center">
-  Linguistic Sign Language Translator
+  Continuous-Sign-Language-Recognition
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 
 ## Introduction
-We aim to raise our AI model using the Machine Learning, Image Processing which involved repeatedly gesturing in front of a camera to teach the system the fundamentals of sign language. This is to combat the differences between various Country’s sign languages and their regional dialects without compromising on accuracy while giving way to crowd-sourcing.
+This is an AI model using the Machine Learning, Image Processing which involved repeatedly gesturing in front of a camera to teach the system the fundamentals of sign language. This is to combat the differences between various Country’s sign languages and their regional dialects without compromising on accuracy while giving way to crowd-sourcing.
 
 
 ## Intermediate Outputs
@@ -43,19 +43,9 @@ What things you need to run the program:
     ```
 
 
-## Team/Organisation
-* **Team Axenhammer** - [Axenhammer](https://github.com/axenhammer)
-
-
-## Contributors
-
-| Krishnakanth Alagiri | Mahalakshumi V |
-|----------------------|----------------|
-| [![f](https://avatars1.githubusercontent.com/u/39209037?s=86)](https://github.com/bearlike) | [![f](https://avatars2.githubusercontent.com/u/40058339?s=86)](https://github.com/mahavisvanathan) | 
-| [@bearlike](https://github.com/bearlike) | [@mahavisvanathan](https://github.com/mahavisvanathan) |
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/axenhammer"> Axemhammer</a>
+  Done by <a href="https://github.com/monish33">Monish Murale</a>
 </p>
 
-![wave](http://cdn.thekrishna.in/img/common/border.png)
+
